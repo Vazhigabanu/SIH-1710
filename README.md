@@ -25,11 +25,17 @@ Architecture Diagram:
 ## Use Cases
 
 1.Helps passengers find platforms, ticket counters, restrooms, and food courts.
+
 2.Provides step-by-step directions to destinations within the railway station.
+
 3.Supports visually impaired passengers through voice navigation.
+
 4.Provides wheelchair-accessible routes for passengers with disabilities.
+
 5.Helps passengers locate waiting halls, lifts, escalators, and emergency exits.
+
 6.Updates station maps and facility locations when changes occur.
+
 7.Reduces passenger confusion, saves time, and helps manage congestion.
 
 ## Technology Stack
