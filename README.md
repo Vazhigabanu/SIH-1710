@@ -40,19 +40,32 @@ Architecture Diagram:
 
 ## Technology Stack
 1.Frontend: HTML, CSS, JavaScript
+
 2.Mobile Application: Flutter
+
 3.Backend: Python with Flask
+
 4.Database: MySQL or Firebase
+
 5.Maps: OpenStreetMap with Leaflet
+
 6.Navigation: QR codes and indoor positioning
+
 7.Voice Assistance: Text-to-Speech (TTS)
+
 8.Digital Kiosk: Touch-screen display with a web-based interface
 
 ## Dependencies
 1.Accurate railway station maps and facility location data.
+
 2.Internet connectivity for live updates and server communication.
+
 3.GPS, QR codes, or indoor positioning infrastructure.
+
 4.Backend server and database services.
+
 5.Mobile phones or digital kiosks for accessing the system.
+
 6.Text-to-Speech support for voice-guided navigation.
+
 7.Cooperation from railway authorities to maintain updated station information.
